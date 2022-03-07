@@ -2,7 +2,7 @@
 
 ## I am a Developer, UI/UX designer, and a dreamer!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 Current goal: get 100 stars on github
 
