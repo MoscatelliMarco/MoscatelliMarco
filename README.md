@@ -8,10 +8,9 @@
 
 ### Reach me too here:
 
-[<img width='25px' src='https://res.cloudinary.com/marcomoscatelli-dev/image/upload/v1646667915/Github/stack-overflow-brands_white_buucdf.svg' />](https://stackoverflow.com/users/17861799/moscatelli-marco)
-
-### Or choose my mail
-**marcomoscatelli.dev@gmail.com**
+- [StackOverflow](https://stackoverflow.com/users/17861799/moscatelli-marco)
+- [Dev.to](https://dev.to/moscatellimarco)
+- [E-Mail](marcomoscatelli.dev@gmail.com)
 
 ## Skills and Experience
 
