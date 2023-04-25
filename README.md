@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 Current goal: get 100 stars on github
 
-### Reach me too here:
+### Reach me here:
 
 - [E-Mail](marcomoscatelli.dev@gmail.com)
 
