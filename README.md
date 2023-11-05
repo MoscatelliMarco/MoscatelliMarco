@@ -19,6 +19,7 @@ I believe in sharing knowledge and contributing to the data science community th
 I work on a variety of data science projects. Here are a few highlights:
 
 - [WebScrap Worldometers](https://github.com/MoscatelliMarco/WebScrap-Worldometers) - "WebScrap Worldometers" is a Scrapy-powered 🕷️ tool for extracting real-time population data 📊 from Worldometers. It outputs structured CSV data 📁, ready for analysis. Dive into the code 👨‍💻 for a hands-on scraping experience or use the data for demographic research 🧮.
+- [Stripe Mongoose Api](https://github.com/MoscatelliMarco/stripe-mongoose-api) - 🎉 Accepting payments is a snap with this easy-to-use payment integration tool! 💳🛍️ Sell products or manage subscriptions with straightforward setup steps. Designed for hassle-free payment processing in apps. 🙌🎈
 
 Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about data science and technology.
 
