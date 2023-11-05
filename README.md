@@ -1,6 +1,6 @@
 # Hi there, I'm Marco Moscatelli 👋
 
-I'm a Data Scientist passionate about turning data into actionable insights and intelligent machine learning solutions. I specialize in Python and have extensive experience with libraries like {yTorch, Pandas, Matplotlib, NumPy, and Scikit-Learn. I'm also skilled in web scraping using Scrapy to gather the data needed for analysis.
+I'm a Data Scientist passionate about turning data into actionable insights and intelligent machine learning solutions. I specialize in Python and have extensive experience with libraries like PyTorch, Pandas, Matplotlib, NumPy, and Scikit-Learn. I'm also skilled in web scraping using Scrapy to gather the data needed for analysis.
 
 ## 🛠️ Skills
 
