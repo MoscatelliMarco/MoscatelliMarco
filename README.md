@@ -21,6 +21,7 @@ I work on a variety of data science projects. Here are a few highlights:
 - [WebScrap Worldometers](https://github.com/MoscatelliMarco/WebScrap-Worldometers) - "WebScrap Worldometers" is a Scrapy-powered 🕷️ tool for extracting real-time population data 📊 from Worldometers. It outputs structured CSV data 📁, ready for analysis.
 - [Stripe Mongoose Api](https://github.com/MoscatelliMarco/stripe-mongoose-api) - 🎉 Accepting payments is a snap with this easy-to-use payment integration tool! 💳🛍️ Sell products or manage subscriptions with straightforward setup steps. Designed for hassle-free payment processing in apps. 🙌🎈
 - [WebScrap TinyDeal](https://github.com/MoscatelliMarco/WebScrap-TinyDeal) - "WebScrap-TinyDeal" is a Scrapy-powered 🕷️ tool for harvesting product information 🏷️ from TinyDeal. It outputs structured CSV data 📁, ready for analysis.
+- [WebScrap IMDB](https://github.com/MoscatelliMarco/WebScrap-IMDB) - 🎬 Python scraper for IMDB: Extract movie/TV details for 📊 analysis & 🗃️ storage. Easy setup, 🔧 customizable, with 🖥️ CLI.
 
 Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about data science and technology.
 
