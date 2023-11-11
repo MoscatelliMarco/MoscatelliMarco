@@ -9,6 +9,7 @@ I'm a Data Scientist passionate about turning data into actionable insights and 
 - **Data Visualization:** Creating insightful visualizations with Matplotlib.
 - **Numerical Computing:** Proficient in using NumPy for complex mathematical computations.
 - **Web Scraping:** Experienced in extracting web data with Scrapy.
+- **Web Development** Building front-end and back-end of dynamic websites (occasionally).
 
 ## 📝 Writing
 
