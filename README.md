@@ -19,6 +19,7 @@ I believe in sharing knowledge and contributing to the data science community th
 
 I work on a variety of data science projects. Here are a few highlights:
 
+- [WebScrap SerieA](https://github.com/MoscatelliMarco/WebScrap-SerieA) - 🕸️⚽ Scrape Serie A match data with ease using Scrapy! Run 🏃‍♂️ 'scrapy crawl matches' to collect 📊 and analyze 🧐 football matches, outputting results to 'analyzed.json'.
 - [WebScrap Worldometers](https://github.com/MoscatelliMarco/WebScrap-Worldometers) - "WebScrap Worldometers" is a Scrapy-powered 🕷️ tool for extracting real-time population data 📊 from Worldometers. It outputs structured CSV data 📁, ready for analysis.
 - [Stripe Mongoose Api](https://github.com/MoscatelliMarco/stripe-mongoose-api) - 🎉 Accepting payments is a snap with this easy-to-use payment integration tool! 💳🛍️ Sell products or manage subscriptions with straightforward setup steps. Designed for hassle-free payment processing in apps. 🙌🎈
 - [WebScrap TinyDeal](https://github.com/MoscatelliMarco/WebScrap-TinyDeal) - "WebScrap-TinyDeal" is a Scrapy-powered 🕷️ tool for harvesting product information 🏷️ from TinyDeal. It outputs structured CSV data 📁, ready for analysis.
