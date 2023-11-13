@@ -31,7 +31,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you wa
 ## 📫 How to Reach Me
 
 - [Email](mailto:marcomoscatelli.dev@gmail.com)
-- [X](https://x.com/marco_thoughs?t=WNczb5xVyxx02tpUYdl86w&s=09)
+- [X (Twitter)](https://x.com/marco_thoughs?t=WNczb5xVyxx02tpUYdl86w&s=09)
 
 ## ⚡ Fun Fact
 
